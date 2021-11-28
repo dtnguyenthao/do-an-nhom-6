@@ -1,0 +1,47 @@
+<meta charset="UTF-8">
+<html>
+<head>
+<title>Đồ án nhóm 6- Protect Team</title>
+	<style type="text/css">
+        div{
+            border:0px solid black;
+            width:55%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+    </style>
+</head>
+<style>
+body {
+  background-image: url('https://i.pinimg.com/564x/e8/c9/df/e8c9df3391c56187e8ebb909f33da143.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
+<body>
+    <div><table border="0" width='800'>
+        <tr>
+		<img src='https://haitrieu.com/wp-content/uploads/2021/10/Logo-DH-Van-Lang-H.png' width='700' height='200'>
+		</tr>
+        <tr>
+            <td>
+				<table border='0' width='800'>
+					<tr>
+						<td height='100' align='center'><font size ='30pt' font face="Verdana" font color="#66CDAA">Giới thiệu bản thân</font><br /></td>
+					</tr>
+				</table>
+			</td>
+        </tr>
+		<tr>
+		<td><br><br><br>
+			<table border='0'>
+				<tr align='center'>
+					<td width='250'><a href='file:///C:/Users/Nguy%C3%AAn%20Th%E1%BA%A3o/OneDrive%20-%20VLG/Nh%E1%BA%ADp%20m%C3%B4n%20cntt/dtnt2.html' target='_blank'><h3>Đoàn Thị Nguyên Thảo</h3></a></td>
+					<td width ='300'><a href='file:///C:/Users/Nguy%C3%AAn%20Th%E1%BA%A3o/OneDrive%20-%20VLG/Nh%E1%BA%ADp%20m%C3%B4n%20cntt/nphd2.html' target='_blank'><h3>Nguyễn Phạm Hoàng Duy</h3></a></td>
+					<td width='250'><a href='file:///C:/Users/Nguy%C3%AAn%20Th%E1%BA%A3o/OneDrive%20-%20VLG/Nh%E1%BA%ADp%20m%C3%B4n%20cntt/tdk2.html' target='_blank'><h3>Trần Duy Khang</h3></a></td>
+				</tr>
+		</div></table>
+    </table>
+</body>
+</html>
